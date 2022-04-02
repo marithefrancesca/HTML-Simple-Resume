@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Resume</title>
+</head>
+<body bgcolor="#ffeaa7">
+	<div>
+		<img src="images/pic.jpg" alt="This is a photo of Marithe Francesca Rojas." style="float:right"; length="155px"; width="155px"; border="5">
+	</div>
+
+	<div>
+		<h1>Marithe Francesca V. Rojas <br>
+		Brgy. Lumbang, Lipa City, Batangas <br>
+		(+63)967-550-0905 <br>
+		E-mail: marithefrancesca18@gmail.com</h1>
+		<hr>
+	</div>
+
+	<div>
+		<h2>CAREER OBJECTIVE:</h2>
+		<p>Seeking a career with a progressive organization that provides opportunity to enhance my technical skills and abilities in the field of Computer Engineering.</p>
+		<hr>
+	</div>
+
+	<div>
+		<h2>TECHNICAL SKILLS:</h2>
+		<ul>
+			<li>Programming (C++, Python)</li>
+			<li>Microsoft Office (MS Word, Excel, Powerpoint, etc.)</li>
+			<li>Web Development</li>
+		</ul>
+		<hr>
+	</div>
+
+	<div>
+		<h2>PERSONAL SKILLS:</h2>
+		<ul>
+			<li>Responsible and can work under pressure.</li>
+			<li>Highly Organized.</li>
+			<li>Ability to work independently or as part of a team.</li>
+			<li>Excellent communication skills.</li>
+		</ul>
+		<hr>
+	</div>
+
+	<div>
+		<h2>PERSONAL INFORMATION:</h2>
+		<p>Date of Birth: January 18, 2000<br>
+		Place of Birth: Brgy. Lumbang, Lipa City, Batangas<br>
+		Gender: Female<br>
+		Civil Status: Single<br>
+		Religion: Roman Catholic<br></p>
+		<hr>
+	</div>
+
+	<div>
+		<h2>EDUCATIONAL BACKGROUND:</h2>
+		<h3>Tertiary</h3>
+		<p>University of Batangas-Lipa Campus<br>
+		Leviste Hwy, Lipa City, Batangas<br>
+		S.Y. 2018-present</p>
+		<div>
+			<h3>Secondary</h3>
+			<p>LCC Silvercrest Senior High School<br>
+			G Solis St., Lipa City, Batangas<br>
+			S.Y. 2016-2018</p>
+		</div>
+		<div>
+			<p>Lumbang Integrated National High School<br>
+			Brgy. Lumbang, Lipa City, Batangas<br>
+			S.Y. 2012-2016</p>
+		</div>
+		<div>
+			<h3>Primary</h3>
+			<p>Early Start Learning Center<br>
+			MK Lina St., Poblacion, Lipa City, Batangas<br>
+			S.Y. 2011-2012</p>
+		</div>
+		<div>
+			<p>St. Charles Augustine School<br>
+			72 Carmona-Timbao Rd, Biñan, Laguna<br>
+			S.Y. 2009-2011</p>
+		</div>
+		<div>
+			<p>Mother Barbara Micarelli School<br>
+				San Roque, Santo Tomas, Batangas<br>
+			S.Y. 2006-2009</p>
+		</div>
+		<hr>
+	</div>
+
+	<div>
+		<h2>ACHIEVEMENTS/RESPONSIBILITIES:</h2>
+		<ul>
+			<li>Treasurer, Brahman Institute of Computer Engineering Students (2021-2022)</li>
+			<li>Secretary, Brahman Institute of Computer Engineering Students (2019-2020)</li>
+			<li>President, Supreme Student Government (2015-2016)</li>
+			<li>With Honors (2017-2018)</li>
+			<li>Top 2/Salutatorian (2015-2016)</li>
+		</ul>
+		<hr>
+	</div>
+
+	<div>
+		<h2>REFERENCES:</h2>
+		<p>To be provided upon request.</p>
+	</div>
+
+</body>
+</html>
